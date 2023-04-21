@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Henry!
+## I'm Henry!
 
 ```python
 
